@@ -4,4 +4,4 @@ input file is 'sample_input.txt'
 
 The code is executed using the command 'python goodies.py' 
 
-output is written in the file 'output.txt'
+output is written to the file 'output.txt'
